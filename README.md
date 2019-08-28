@@ -2,4 +2,4 @@
 
 
 
-![Alt text](/images/s1.PNG?raw=true "After open")
+![Alt text](/images/s1.png?raw=true "After open")
