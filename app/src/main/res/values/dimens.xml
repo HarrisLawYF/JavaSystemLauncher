@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_text">40sp</dimen>
+    <dimen name="medium_text">25sp</dimen>
+    <dimen name="small_text">12sp</dimen>
+
+    <dimen name="date_margin">80sp</dimen>
+    <dimen name="home_button">80sp</dimen>
+    <dimen name="large_margin">30sp</dimen>
+    <dimen name="medium_margin">20sp</dimen>
+    <dimen name="small_margin">10sp</dimen>
+</resources>

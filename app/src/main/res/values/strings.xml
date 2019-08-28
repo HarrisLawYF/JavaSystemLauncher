@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomSwatchLauncher</string>
+    <string name="app_home">Home of all applications</string>
+    <string name="app_background">Your Every Day</string>
+    <string name="app_daydream_name">My Test Dream</string>
+</resources>
