@@ -2,4 +2,4 @@
 
 
 
-![Alt text](/images/Screenshot_2019-08-28-15-41-31-361_com.example.customswatchlauncher.PNG?raw=true "After open")
+![Alt text](/images/s1.PNG?raw=true "After open")
